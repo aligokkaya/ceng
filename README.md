@@ -5,11 +5,11 @@
 
 
 Some basic pip commands are:
-'''
-pip install opencv-python
-pip install numpy
-pip install matplotlib
-'''
+```
+git status
+git add
+git commit
+```
 
 - George Washington
 - John Adams
